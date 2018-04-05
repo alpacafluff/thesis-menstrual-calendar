@@ -1,4 +1,4 @@
-# DATA POINT DETECTOR TEST FOR MENSTRUAL CALENDAR (Processing sketch)
+# Data Point Detector Test for Menstrual Calendar (Processing sketch)
 
 This is a computer vision color tracking program that identifies data points on a physical menstrual calendar. Part of María del Pilar Gomez Ruiz's Thesis Project for the Interactive Telecommunications Program at NYU Tisch School of the Arts
 
