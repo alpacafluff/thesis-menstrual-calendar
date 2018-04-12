@@ -5,7 +5,7 @@ Processing Sketch
 
 ** In progress, the grid limit warping is still not fully functional **
 
-This sketch was built with the help of Sejo Vega Cebrián, using Daniel Shiffman's blob detection algorithm
+This sketch was built with the help of Sejo Vega-Cebrián, using Daniel Shiffman's blob detection algorithm
 https://github.com/CodingTrain/website/blob/master/Tutorials/Processing/11_video/sketch_11_7_BlobTracking/sketch_11_7_BlobTracking.pde
 */
 
