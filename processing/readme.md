@@ -1,8 +1,10 @@
 # Data Point Detector Test for Menstrual Calendar (Processing sketch)
 
+*Created April 4th, 2018*
+
 This is a computer vision color tracking program that identifies data points on a physical menstrual calendar. Part of María del Pilar Gomez Ruiz's Thesis Project for the Interactive Telecommunications Program at NYU Tisch School of the Arts
 
-This sketch was built with the help of Sejo Vega Cebrián, using Daniel Shiffman's blob detection algorithm
+This sketch was built with the help of Sejo Vega-Cebrián, using Daniel Shiffman's blob detection algorithm
 found in https://github.com/CodingTrain/website/blob/master/Tutorials/Processing/11_video/sketch_11_7_BlobTracking/
 
 This is what it does: 
