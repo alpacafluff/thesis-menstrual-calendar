@@ -190,13 +190,6 @@ function  drawUno() {
 
 }
 
-/*
-function distSq(x1, y1, x2, y2) {
-  let d = (x2-x1)*(x2-x1) + (y2-y1)*(y2-y1);
-  return d;
-}
-*/
-
 function distSq(x1, y1, z1, x2, y2, z2) {
   var d = (x2-x1)*(x2-x1) + (y2-y1)*(y2-y1) +(z2-z1)*(z2-z1);
   return d;
